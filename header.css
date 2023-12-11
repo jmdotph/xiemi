@@ -148,6 +148,9 @@
   height: 20px;
   margin: 0;
   }
+  .header {
+    padding: 12px;
+  }
 }
 @media (max-width: 768px) {
   .header-middle-section,
@@ -171,5 +174,8 @@
   }
 .text-telephone-number {
   font-size: 12px;
+  }
+  .header {
+    padding: 2px;
   }
 }
